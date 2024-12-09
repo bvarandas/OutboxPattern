@@ -23,5 +23,9 @@
     <ItemGroup>
       <ProjectReference Include="..\Customers.Contracts\Customers.Contracts.csproj" />
     </ItemGroup>
+    
+    <ItemGroup>
+      <Folder Include="docs\" />
+    </ItemGroup>
 
 </Project>
